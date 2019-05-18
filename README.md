@@ -47,5 +47,8 @@ root@ajrecon:~# cd Tools
 root@ajrecon:~# git clone https://github.com/maurosoria/dirsearch.git
 ```
 
+## Usage
+Simply specify the domain name
 
+```root@ajrecon:~#python ajrecon.py domain.com```
 
